@@ -128,7 +128,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ## 💬 Contact
 
 📧 **Author:** Your Name
-🔗 **GitHub:** [@your-username](https://github.com/m-ijaz-hussnain)
+🔗 **GitHub:** [@m-ijaz-hussnain](https://github.com/m-ijaz-hussnain)
 🌐 **Project Link:** [https://github.com/your-username/TrackMyJob](https://github.com/m-ijaz-hussnain/trackMyJob-webApp)
 
 ---
